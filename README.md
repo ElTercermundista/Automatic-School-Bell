@@ -1,4 +1,4 @@
-This automatic bell was designed to manage the timetables of a school, but it can be used for any other purpose. It was designed for updating the time every day using a NTP (Network Time Protocol) at a certain hour that you can change in the code depending on your needs (lines 220-230). Depending on the region that you are you may need to change the NTP server for better comunications speeds. I 'm also putting all the libraries used during the project in the Libraries.zip file
+This automatic bell was designed to manage the timetables of a school, but it can be used for any other purpose. It was designed for updating the time every day using a NTP (Network Time Protocol) at a certain hour that you can change in the code depending on your needs (lines 220-230). Depending on the region that you are you may need to change the NTP server for better comunications speeds. I 'm also putting on a .Zip file all the libraries that were found in internet that were used in the project.
 
 It was made with the following components:
 
